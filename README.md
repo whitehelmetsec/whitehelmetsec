@@ -9,7 +9,7 @@
 <p align="left">
 <a href="https://twitter.com/whitehelmetdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="whitehelmetdev" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/wilsonlaiwx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wilsonlaiwx" height="30" width="40" /></a>
-<a href="https://tryhackme.com/p/WilsonLai" target="blank"><img align="center" src="https://raw.githubusercontent.com/wilsonlaiwx/wilsonlaiwx.github.io/source/dist/img/tryhackme.svg" alt="wilsonlaiwx" height="30" width="40" /></a>
+<a href="https://tryhackme.com/p/WilsonLai" target="blank"><img align="center" src="https://raw.githubusercontent.com/wilsonlaiwx/wilsonlaiwx.github.io/source/dist/img/tryhackme_white.svg" alt="wilsonlaiwx" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
