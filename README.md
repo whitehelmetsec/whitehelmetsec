@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Wilson</h1>
-<h3 align="center">A mechanical engineer turned cybersecurity enthusiast.</h3>
+<h1 align="left">Hi 👋, I'm Wilson</h1>
+<h3 align="left">A mechanical engineer turned cybersecurity enthusiast.</h3>
 
-- 🔭 I’m currently working on **getting OSCP**
+🔭 I’m currently working on **getting OSCP**
 
-- 🌱 I’m currently learning **about cybersecurity**
+🌱 I’m currently learning **about cybersecurity**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
