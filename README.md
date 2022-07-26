@@ -7,14 +7,14 @@
 
 <h3 align="left">My credentials:</h3>
 <p align="left">
-<a href="https://www.credly.com/badges/b0e8ad6e-113c-4201-a198-b030117eec56/public_url" target="blank"><img align="center" src="https://raw.githubusercontent.com/wilsonlaiwx/assets/pmp-600px.png" alt="pmp" height="30" width="40" /></a>
+<a href="https://www.credly.com/badges/b0e8ad6e-113c-4201-a198-b030117eec56/public_url" target="blank"><img align="center" src="https://raw.githubusercontent.com/wilsonlaiwx/wilsonlaiwx/main/assets/pmp-600px.png" alt="pmp" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/whitehelmetdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="whitehelmetdev" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/wilsonlaiwx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wilsonlaiwx" height="30" width="40" /></a>
-<a href="https://tryhackme.com/p/WilsonLai" target="blank"><img align="center" src="https://raw.githubusercontent.com/wilsonlaiwx/assets/tryhackme_white.svg" alt="wilsonlaiwx" height="30" width="40" /></a>
+<a href="https://tryhackme.com/p/WilsonLai" target="blank"><img align="center" src="https://raw.githubusercontent.com/wilsonlaiwx/assets/main/assets/tryhackme_white.svg" alt="wilsonlaiwx" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
