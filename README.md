@@ -7,7 +7,7 @@
 
 <h3 align="left">My credentials:</h3>
 <p align="left">
-<a href="https://www.credly.com/badges/b0e8ad6e-113c-4201-a198-b030117eec56/public_url" target="blank"><img align="center" src="https://raw.githubusercontent.com/wilsonlaiwx/wilsonlaiwx/main/assets/pmp-600px.png" alt="pmp" height="30" width="40" /></a>
+<a href="https://www.credly.com/badges/b0e8ad6e-113c-4201-a198-b030117eec56/public_url" target="blank"><img align="center" src="https://raw.githubusercontent.com/wilsonlaiwx/wilsonlaiwx/main/assets/pmp-600px.png" alt="pmp" height="50" width="50" /></a>
 </p>
 
 <h3 align="left">Connect with me:</h3>
