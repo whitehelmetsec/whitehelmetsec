@@ -1,9 +1,9 @@
 <h1 align="left">Hi 👋, I'm Wilson</h1>
 <h3 align="left">A mechanical engineer turned cybersecurity enthusiast.</h3>
 
-🔭 I’m currently working on **getting PNPT & OSCP**
+🔭 I’m currently working on getting **CCNA, PNPT & OSCP**
 
-🌱 I’m currently learning **about cybersecurity and Web3**
+🌱 I’m currently learning about **cybersecurity and Web3**
 
 <h3 align="left">My credentials:</h3>
 <p align="left">
