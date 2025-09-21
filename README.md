@@ -7,7 +7,8 @@
 
 <h3 align="left">My credentials:</h3>
 <p align="left">
-<a href="https://www.credly.com/badges/15de7f43-3b17-4ed9-85f8-cde9ec090c69/public_url" target="blank"><img align="center" src="https://raw.githubusercontent.com/whitehelmetsec/whitehelmetsec/main/assets/ccna_600.png" alt="ccna" height="50" width="50" /></a>
+  <a href="https://credentials.offsec.com/f3f89865-b1aa-4b65-9cce-c05ec551de98" target="blank"><img align="center" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/161210504" alt="oscp" height="50" width="50" /></a>
+  <a href="https://www.credly.com/badges/15de7f43-3b17-4ed9-85f8-cde9ec090c69/public_url" target="blank"><img align="center" src="https://raw.githubusercontent.com/whitehelmetsec/whitehelmetsec/main/assets/ccna_600.png" alt="ccna" height="50" width="50" /></a>
   <a href="https://www.credly.com/badges/b0e8ad6e-113c-4201-a198-b030117eec56/public_url" target="blank"><img align="center" src="https://raw.githubusercontent.com/wilsonlaiwx/wilsonlaiwx/main/assets/pmp-600px.png" alt="pmp" height="50" width="50" /></a>
 </p>
 
